@@ -10,7 +10,7 @@
     var validated = false;
     var buton_submit = false;
     var my_form = $('#<?=$form?>');
-    var name_class = '<?=$request?>';
+    var name_class = $('#<?=$form?>').attr('data-validation');
     var on_start = '<?=$on_start?>';
 
     initialize();
