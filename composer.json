@@ -1,9 +1,9 @@
 {
-    "name": "lrgt/laravel-form-ajax-validation",
+    "name": "fury93/laravel-form-ajax-validation",
     "type": "library",
     "description": "Make ajax validation with Laravel Requests for forms with bootstrap",
     "keywords": ["laravel","form","ajax","validation"],
-    "homepage": "https://github.com/guicho0601/laravel-form-ajax-validation",
+    "homepage": "https://github.com/fury93/laravel-form-ajax-validation",
     "license": "MIT",
     "authors": [
         {
